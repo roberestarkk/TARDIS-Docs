@@ -52,3 +52,6 @@ You can also choose what the TARDIS should do if a parking spot cannot be found
 - `STAY` - Stay at the current location, don't go anywhere.
 
 ![Autonomous preferences GUI](/images/docs/auton_prefs_gui.png)
+
+### Setting up Configured Areas for the Server
+You can use the command `tconfig autonomous_area [area] [add|remove]` to manage the server's default areas
